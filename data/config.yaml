@@ -1,0 +1,18 @@
+# config.yaml file
+
+# train --> test --> validation ratios
+train: 0.7 
+validation: 0.2  
+test: 0.1  
+
+weights: "/home/lachie/Desktop/yoloAnt/data/weights/YBV2.pt" # path to weights file (must be in .pt format)
+
+conf: 0.4 # confidence threshold (model will not detect objects with threshold less than x, standard is 0.4) 
+
+numberOfAnnotations: -1 # number of images to be annotated (leave as -1 to annotate all images)
+
+# classes to annotate (comment out classes where neccessary)
+classes:
+  - orange
+  - blue
+  - yellow
