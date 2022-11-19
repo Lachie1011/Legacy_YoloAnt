@@ -31,5 +31,4 @@ Utilising an unreliable model annotated manually with 460 images, we were able t
 4200 image model : <br/>
 ![Alt Text](https://media.giphy.com/media/MjSE1cD01BMe0IlvRU/giphy.gif)
 
-<br/> By Lachlan Masson
-<br/> Contributors: Brayth Tarlinton
+<br/> By Lachlan Masson and Brayth Tarlinton
